@@ -1,0 +1,44 @@
+/** @format */
+
+body {
+    background: yellowgreen;
+}
+
+td {
+    border: 1px solid black;
+    width: 50px;
+    height: 50px;
+}
+.larger {
+    height: 100px;
+}
+.red {
+    width: 100%;
+    height: 100%;
+    background: red;
+}
+.blue {
+    width: 100%;
+    height: 100%;
+    background: blue;  
+}
+.green {
+    width: 100%;
+    height: 100%;
+    background: green;
+}
+.white {
+    width: 100%;
+    height: 100%;
+    background:white;
+}
+.crimson {
+    width: 100%;
+    height: 100%;
+    background: crimson;
+}
+.blueviolet {
+    width: 100%;
+    height: 100%;
+    background: blueviolet;
+}
